@@ -1,10 +1,10 @@
-## Desenvolvedor Backend e Estudante de Ciência da Computação
-
-Profissional na área de tecnologia e entusiasta da programação. Apaixonado por tecnologia, bem como um interesse profundo pelo mundo do futebol e dos eSports.
-
 ## Backend Developer and Computer Science Student
 
 Professional in the technology field and programming enthusiast. Passionate about technology, as well as deeply interested in the worlds of soccer and eSports.
+
+## [PT-BR] Desenvolvedor Backend e Estudante de Ciência da Computação
+
+Profissional na área de tecnologia e entusiasta da programação. Apaixonado por tecnologia, bem como um interesse profundo pelo mundo do futebol e dos eSports.
 
 ##
 <div>
